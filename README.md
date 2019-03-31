@@ -7,3 +7,7 @@
 
 
 3. Resolução do Guião 3 Correspondente à Aula 4 (25/02/2019) em <a href=https://github.com/uminho-miei-engseg-18-19/Grupo7/tree/master/Aula4>Aula 4 </a>
+
+4. Resolução do Guião 4 Correspondente à Aula 7 (18/02/2019) em <a href=https://github.com/uminho-miei-engseg-18-19/Grupo7/tree/master/Aula5>Aula 5 </a>
+
+5. Resolução do Guião 5 Correspondente à Aula 8 (25/03/2019) em <a href=https://github.com/uminho-miei-engseg-18-19/Grupo7/tree/master/Aula8>Aula 8 </a>
