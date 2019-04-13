@@ -13,3 +13,5 @@
 5. Resolução do Guião 5 Correspondente à Aula 8 (25/03/2019) em <a href=https://github.com/uminho-miei-engseg-18-19/Grupo7/tree/master/Aula8>Aula 8 </a>
 
 6. Resolução do Guião 6 Correspondente à Aula 9 (01/04/2019) em <a href=https://github.com/uminho-miei-engseg-18-19/Grupo7/tree/master/Aula9>Aula 9 </a>
+
+7. Resolução do Guião 6 Correspondente à Aula 10 (08/04/2019) em <a href=https://github.com/uminho-miei-engseg-18-19/Grupo7/tree/master/Aula10>Aula 10 </a>
